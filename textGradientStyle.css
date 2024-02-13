@@ -1,0 +1,11 @@
+.text{
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    padding: 20px;
+    font-size: 100px;
+    font-weight: bolder;
+    background: radial-gradient(rgb(230,45,190),rgb(212, 10, 10),rgb(80, 13, 204),rgb(14, 193, 228),rgb(9, 236, 73),rgb(203, 144, 16));
+    color: transparent;
+    -webkit-background-clip: text;
+}
